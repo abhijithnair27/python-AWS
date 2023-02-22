@@ -1,0 +1,15 @@
+,0
+0,{
+1,"   ""firstName"": ""Joe"","
+2,"   ""lastName"": ""Jackson"","
+3,"   ""gender"": ""male"","
+4,"   ""age"": 28,"
+5,"   ""address"": {"
+6,"       ""streetAddress"": ""101"","
+7,"       ""city"": ""San Diego"","
+8,"       ""state"": ""CA"""
+9,"   },"
+10,"   ""phoneNumbers"": ["
+11,"       { ""type"": ""home"", ""number"": ""7349282382"" }"
+12,   ]
+13,}
